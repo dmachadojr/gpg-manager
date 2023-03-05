@@ -6,6 +6,7 @@
 # curso de Sistemas de Informacao
 # Libertas Faculdades Integradas
 #------------------------------------
+stty sane #repara problema referente ao <ENTER> no terminal quando usa o Kali
 
 listaChaves() {
 	echo "---|CHAVES ENCONTRADAS|------"
